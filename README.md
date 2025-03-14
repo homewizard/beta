@@ -37,6 +37,6 @@ Currently, we do not support external testers for iOS or Android beta versions. 
 - We reserve the right to discontinue this service, change the beta program, or withhold announcements at any time, without notice or replacement of any part of this service.
 - Testers do not have rights to any features tested during the beta phase, even if those features are later made publicly available.
 - Any feedback or data shared through this repository may be used to improve the product, but will be handled in accordance with the HomeWizard privacy policy.
-- Information shared in beta releases is publicly available and may be disclosed without restriction.
+- Information shared in via this repository is publicly available, but may not be used for commercial purposes such as a news article or blog post without explicit permission from HomeWizard.
 
 ❗ **This is not a feature request or support channel. Please use our [Helpdesk](https://helpdesk.homewizard.com/) for support. Issues related to beta software can be discussed through the announcement.**
